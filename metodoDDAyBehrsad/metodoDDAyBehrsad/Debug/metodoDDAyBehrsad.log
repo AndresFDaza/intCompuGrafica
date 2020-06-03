@@ -1,0 +1,35 @@
+﻿  principal.cpp
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(11,26): error C2365: 'y1': nueva definición; la definición anterior era 'función'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(985): message : vea la declaración de 'y1'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(23,23): error C2664: 'void dibujar_pixel2(int,int)': el argumento 2 no puede convertirse de 'double (__cdecl *)(double)' a 'int'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(23,21): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(14,6): message : vea la declaración de 'dibujar_pixel2'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(26,23): error C2664: 'void dibujar_pixel2(int,int)': el argumento 2 no puede convertirse de 'double (__cdecl *)(double)' a 'int'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(26,21): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(14,6): message : vea la declaración de 'dibujar_pixel2'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(123,15): error C2659: '=': función como operando izquierdo
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(137,22): error C2664: 'void DDA(int,int,int,int)': el argumento 2 no puede convertirse de 'double (__cdecl *)(double)' a 'int'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(137,12): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(77,6): message : vea la declaración de 'DDA'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(140,23): error C2664: 'void bres(int,int,int,int)': el argumento 2 no puede convertirse de 'double (__cdecl *)(double)' a 'int'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(140,13): message : No existe un contexto en el que sea posible realizar esta conversión
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(29,6): message : vea la declaración de 'bres'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(142,16): error C2659: '=': función como operando izquierdo
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(135,1): error C4996: 'y1': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _y1. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(985): message : vea la declaración de 'y1'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(183,20): error C2143: error de sintaxis: falta ',' delante de '-'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(183,32): warning C4552: "<": el resultado de la expresión no se usa
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(183,55): error C2059: error de sintaxis: ')'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(184,20): error C2059: error de sintaxis: ';'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(193,20): error C2143: error de sintaxis: falta ',' delante de '-'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(193,32): warning C4552: "<": el resultado de la expresión no se usa
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(193,55): error C2059: error de sintaxis: ')'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(194,20): error C2059: error de sintaxis: ';'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(202,2): error C2059: error de sintaxis: '}'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(202,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(204,56): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(204,56): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(237,31): error C2664: 'void glutDisplayFunc(void (__cdecl *)(void))': el argumento 1 no puede convertirse de 'void (__cdecl *)(int,int)' a 'void (__cdecl *)(void)'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(237,18): message : Ninguna de las funciones con este nombre en el ámbito coincide con el tipo de destino
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\glut.h(565,23): message : vea la declaración de 'glutDisplayFunc'
+C:\Users\andre\OneDrive\Escritorio\intComp\metodoDDAyBehrsad\metodoDDAyBehrsad\principal.cpp(238,16): error C2065: 'controlRaton': identificador no declarado

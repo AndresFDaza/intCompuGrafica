@@ -1,0 +1,4 @@
+el archivo principal.cpp inicializa una ventana glut, en el codigo se indica funcionamiento base de cada linea.
+
+los archivos glut.h, glut 32.dll y glut32.lib debe estar en la carpeta nivel del cpp, de no funcionar
+el archivo glut32.dll debe estar en la carpeta Debug del proyecto
